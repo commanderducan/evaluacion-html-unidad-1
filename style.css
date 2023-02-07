@@ -1,0 +1,73 @@
+body {
+    background-image: url("paisaje invierno.gif");
+}
+
+a > h3 {
+    color:rgba(19, 18, 18, 0.644);
+
+    text-decoration: underline;
+    text-align:center;
+    font-size: 1.5em;    
+}
+
+h3 {
+    text-align:center;
+    color: red;
+    font-size: 2.5em;   
+}
+    
+
+p {
+    color:black;
+    background-color:rgb(19, 173, 114);
+    font-size: 1.2em;
+}
+
+footer {
+    border-bottom: dashed; 
+    border-bottom-color: green;
+}
+
+.login {
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.nieve {
+    border-radius: 100px;
+}
+
+.timea {
+    display:block;
+    text-align:center;
+    font-size: 1.2em;
+}
+
+.Victoria {
+    text-align:center;
+    font-size: 1.2em;
+}
+
+.desastre {
+    float: left;
+    border-radius: 100px;
+}
+
+.guerra {
+    float: right;
+    width: 800px;
+    height: 200px;
+    border-radius: 200px;
+}
+
+.peru {
+    float: left;
+    width: 600px;
+    height: 200px;
+    border-radius: 100px ;
+}
+
+nav > lu {
+    text-size-adjust: 1.5em;
+}
